@@ -1,4 +1,5 @@
-// My Solution. Note: This generates the pattern in the book but does not use the 'size' variable.
+// My Solution. 
+// Note: This generates the exact pattern in the book but lacks the useful 'size' variable that Martin has.
 for (var counter = 1; counter <= 4; counter++) {
   console.log("# # # # \n # # # #");
 }
