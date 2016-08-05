@@ -1,3 +1,4 @@
+// Martin's Solution
 function isEven(n) {
   if (n == 0)
     return true;
