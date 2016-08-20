@@ -6,7 +6,8 @@ function range(start, end, step) {
   if (step > 0) {
     for (var i = start; i <= end; i += step)
       array.push(i);
-  } else {
+  } 
+  else {
     for (var i = start; i >= end; i += step)
       array.push(i);
   }
