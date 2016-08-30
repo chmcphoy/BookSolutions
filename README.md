@@ -1,3 +1,3 @@
-# Code Exercises
-Solutions to Code Exercises from various programming books
+# Projects & Code Exercises
+My solutions to projects & code exercises from various programming books
 
